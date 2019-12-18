@@ -38,7 +38,7 @@ public class Main2 {
 //        System.out.println(res);
 
 
-
+        System.out.println("test");
 
         FileReader fr = new FileReader("test.txt");
         while(fr.ready()){
